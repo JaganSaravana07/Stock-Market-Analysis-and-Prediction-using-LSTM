@@ -75,7 +75,7 @@ The final predicted results, demonstrate the model's capability to forecast futu
 
 The LSTM model's predictions can serve as a reliable tool for investors, aiding in making informed investment decisions. The ability to predict stock prices accurately can help in strategizing entry and exit points in the market, thus optimizing investment returns.
 
-### In conclusion, the project highlights the potential of LSTM networks in financial forecasting. The model's accuracy and consistency in predicting stock prices make it a valuable asset for investors looking to leverage machine learning for market analysis. The project successfully bridges the gap between complex deep learning models and practical financial applications, providing a reliable framework for stock price prediction.
+In conclusion, the project highlights the potential of LSTM networks in financial forecasting. The model's accuracy and consistency in predicting stock prices make it a valuable asset for investors looking to leverage machine learning for market analysis. The project successfully bridges the gap between complex deep learning models and practical financial applications, providing a reliable framework for stock price prediction.
 
 
 
