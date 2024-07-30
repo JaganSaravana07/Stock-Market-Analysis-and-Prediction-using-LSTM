@@ -19,7 +19,7 @@ The primary objective of this project is to develop a robust predictive model us
 
 1. **What was the change in price of the stock over time?**
 
-Analyze the historical price movements of stocks to understand the trends and fluctuations over a specified period.
+   Analyze the historical price movements of stocks to understand the trends and fluctuations over a specified period.
 
 2. **What was the daily return of the stock on average?**
 
