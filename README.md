@@ -54,7 +54,7 @@ To run this project, you will need the following Python libraries:
 - Statsmodels: For statistical modeling and testing.
 - YFinance (or Pandas Datareader): For fetching stock market data.
 
-## Summary
+## Conclusion
 The project on stock market analysis and prediction using Long Short-Term Memory (LSTM) networks successfully demonstrated the application of deep learning techniques to forecast stock prices. By leveraging historical data, the model was able to provide valuable insights and predictions for stocks like Tesla, Netflix, and Meta.
 
 ### Key findings from the project include:
