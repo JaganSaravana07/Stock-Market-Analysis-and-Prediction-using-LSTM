@@ -19,24 +19,26 @@ The primary objective of this project is to develop a robust predictive model us
 
 1. **What was the change in price of the stock over time?**
 
-Analyze the historical price movements of stocks to understand the trends and fluctuations over a specified period.
+- Analyze the historical price movements of stocks to understand the trends and fluctuations over a specified period.
 
 2. **What was the daily return of the stock on average?**
 
-Calculate the average daily return of stocks to assess the performance and volatility of individual stocks.
+- Calculate the average daily return of stocks to assess the performance and volatility of individual stocks.
+
 3. **What was the moving average of the various stocks?**
 
-Compute the moving averages of different stocks to identify the overall direction of the market and smooth out short-term fluctuations.
+- Compute the moving averages of different stocks to identify the overall direction of the market and smooth out short-term fluctuations.
 
 4. **What was the correlation between different stocks?**
 
-Determine the correlation between various stocks to understand how the prices of different stocks move in relation to each other, which can aid in portfolio diversification.
+- Determine the correlation between various stocks to understand how the prices of different stocks move in relation to each other, which can aid in portfolio diversification.
 
 5. **How much value do we put at risk by investing in a particular stock?**
 
-Assess the value at risk (VaR) to estimate the potential loss in value of an investment over a specified period under normal market conditions.
+- Assess the value at risk (VaR) to estimate the potential loss in value of an investment over a specified period under normal market conditions.
 
 6. **How can we attempt to predict future stock behavior?**
 
-Utilize LSTM networks to forecast future stock prices based on historical data, providing a predictive model that investors can use to make more informed investment decisions.
+- Utilize LSTM networks to forecast future stock prices based on historical data, providing a predictive model that investors can use to make more informed investment decisions.
+
 This project aims to bridge the gap between complex deep learning models and practical financial applications, offering a reliable tool for investors to enhance their decision-making process.
