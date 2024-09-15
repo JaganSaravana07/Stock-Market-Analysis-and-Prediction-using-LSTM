@@ -1,13 +1,3 @@
-#### Name: Jagan Saravana
-
-#### Company: CODTECH IT SOLUTIONS
-
-#### ID : CT8DA1751
-
-#### Domain: DATA ANALYTICS
-
-#### Duration: July to September 2024
-
 # Stock Market Analysis and Prediction using LSTM - Stocks[Tesla, Netflix, Meta, Nvidia]
 
 ## Description
